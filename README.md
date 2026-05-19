@@ -36,7 +36,7 @@ Boas práticas de Clean Code
 
 Separação de funcionalidades em camadas, models, arquivos reutilizaveis e pastas de componentes(Cujo simbolizam as telas), garantindo organização, manutenção e evolução do código
 
-Executar o projeto
+▶️ Executar o projeto use: 
 ng start
 
 📂 Estrutura de Telas
